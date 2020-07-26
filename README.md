@@ -1,2 +1,2 @@
 # cs143
-cs143 compiler course
+An implementation of the cs143 compiler course
